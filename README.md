@@ -1,2 +1,4 @@
-# memes-and-hopes
-memingos buenos 
+# Memes-and-Hopes - Emiliano Grajales
+Memingos buenos 
+
+Este es un archivo de memes curseados 
